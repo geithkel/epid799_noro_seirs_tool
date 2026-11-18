@@ -1,0 +1,21 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+
+# renv local cache/settings
+renv/library/
+renv/staging/
+
+# Shiny deployment metadata may contain account-specific details
+rsconnect/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Exported outputs
+*.csv
